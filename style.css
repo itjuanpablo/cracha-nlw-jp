@@ -1,6 +1,5 @@
 * {
   margin: 0;
-  background-color: black;
 }
 
 html,
@@ -17,7 +16,7 @@ body {
   display: grid;
   place-items: center;
 
-  background: lightblue;
+  background: white;
 }
 
 main {
